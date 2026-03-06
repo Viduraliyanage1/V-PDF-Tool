@@ -63,7 +63,8 @@ All processed files are automatically saved to your Downloads folder.
                                     💡 Download now & simplify your PDF workflow!
 
 Release Version 01 :
-DOWNLOAD : soon 
+
+DOWNLOAD : https://www.mediafire.com/file/jq3evzwown59gsb/V_PDF_TOOL_SETUP.exe/file 
 
 
 #PDFTool #PythonProject #OpenSource #CustomTkinter #PythonGUI #PDFSecurity #DesktopApp #SoftwareDevelopment #Programming #PythonDeveloper
