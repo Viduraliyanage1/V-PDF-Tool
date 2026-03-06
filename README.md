@@ -5,22 +5,22 @@
 📄 Say hello to V PDF Tool – your all-in-one PDF solution!
 
 💻 Features:
-🔒 Lock PDF Files
+🔒 Lock PDF Files :
 Protect your PDF documents with a secure password.
 
-🔓 Unlock PDFs
+🔓 Unlock PDFs :
 Remove password protection from encrypted PDFs quickly.
 
-📑 Merge PDFs
+📑 Merge PDFs :
 Combine multiple PDF files into one single document.
 
-✂ Split PDFs
+✂ Split PDFs :
 Split PDF files into individual pages automatically.
 
-⚡ Auto Password Generator
+⚡ Auto Password Generator :
 Generate strong passwords instantly for better security.
 
-📥 Auto Save to Downloads
+📥 Auto Save to Downloads :
 All processed files are automatically saved to your Downloads folder.
 
                                🎨 Modern & user-friendly interface – easy for everyone!
